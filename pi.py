@@ -1,5 +1,7 @@
 # pi.py
 # Approximates the value of pi
+# JA: You also had to print the difference between the calculated value
+# and math.pi
 def main ():
     n = int(input("Enter the number of terms to use:"))
 

@@ -1,7 +1,7 @@
 def fib():
     print("This is a way to show the fibonacci sequence.")
     n = eval(input("Input number to calculate the Fibonacci"))
-    x,y = 1,0
+    x,y = 1,1 # JA
     for i in range(n):
         print (x)
         #z = x + y
