@@ -3,6 +3,10 @@
 # Author- Justin Maurina
 # Created: 2018-02-23
 
+# JA: There is a single commit in the repository, which does not show
+# the changes
+# You had to create different functions for this
+
 import math
 def main():
 # get user's first and last names
